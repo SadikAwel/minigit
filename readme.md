@@ -2,12 +2,12 @@
 ---
 ## 👨‍💻 Team Members – Developers & Report Authors
 
-| Name               | ID           |
-|--------------------|--------------|
-| **Tamene Wolde**   | ATE/5140/15  |
-| **Sadik Awel**     | ATE/4047/15  |
-| **Mubarek Jemal**  | ATE/2478/15  |
-| **Terefe Mulushewa** | ATE/9042/15 |
+| Name               | ID           |            GitHub repository link             |
+|--------------------|--------------|-----------------------------------------------|
+| **Tamene Wolde**   | ATE/5140/15  |                                               |
+| **Sadik Awel**     | ATE/4047/15  | https://github.com/SadikAwel/my-minigit-trial |
+| **Mubarek Jemal**  | ATE/2478/15  |                                               |
+| **Terefe Mulushewa** | ATE/9042/15 |                                              |
 
 ---
 _A Simplified Git-like Version Control System_
