@@ -1,5 +1,15 @@
 # MiniGit
+---
+## 👨‍💻 Team Members – Developers & Report Authors
 
+| Name               | ID           |
+|--------------------|--------------|
+| **Tamene Wolde**   | ATE/5140/15  |
+| **Sadik Awel**     | ATE/4047/15  |
+| **Mubarek Jemal**  | ATE/2478/15  |
+| **Terefe Mulushewa** | ATE/9042/15 |
+
+---
 _A Simplified Git-like Version Control System_
 
 ---
@@ -46,7 +56,7 @@ Note: Merge support is listed as a planned feature unless implemented in your ve
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:SadikAwel/minigit.git
+git clone https://github.com/sadikawel/minigit.git
 cd minigit
 ```
 
@@ -174,6 +184,16 @@ echo Diffing master (%master_head%) vs feature (%feature_head%)
 set "first_commit_hash=YOUR_ACTUAL_HASH"
 ./minigit diff %first_commit_hash%
 ```
+### 📽️ MiniGit Demonstration Video
+
+Want to see MiniGit in action?  
+Check out this short demo video showing a simple example of initializing a repository, adding files, making commits, and switching branches:
+
+<a href="https://youtu.be/kGN5GuwusAw" target="_blank">
+  <img src="https://img.youtube.com/vi/kGN5GuwusAw/0.jpg" alt="MiniGit Demo Video" width="500">
+</a>
+
+> 🎬 _This video provides a quick walkthrough of MiniGit's core features using actual terminal commands._
 
 ---
 
