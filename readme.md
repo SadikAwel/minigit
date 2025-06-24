@@ -6,7 +6,7 @@
 |--------------------|--------------|-----------------------------------------------|
 | **Tamene Wolde**   | ATE/5140/15  |                                               |
 | **Sadik Awel**     | ATE/4047/15  | https://github.com/SadikAwel/my-minigit-trial |
-| **Mubarek Jemal**  | ATE/2478/15  |                                               |
+| **Mubarek Jemal**  | ATE/2478/15  | https://github.com/mubarekdevv/my-minigit-trial |
 | **Terefe Mulushewa** | ATE/9042/15 |                                              |
 
 ---
