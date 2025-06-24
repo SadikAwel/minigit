@@ -4,7 +4,7 @@
 
 | Name               | ID           |            GitHub repository link             |
 |--------------------|--------------|-----------------------------------------------|
-| **Tamene Wolde**   | ATE/5140/15  |                                               |
+| **Tamene Wolde**   | ATE/5140/15  | https://github.com/TAME911/my-minigit-trial   |
 | **Sadik Awel**     | ATE/4047/15  | https://github.com/SadikAwel/my-minigit-trial |
 | **Mubarek Jemal**  | ATE/2478/15  | https://github.com/mubarekdevv/my-minigit-trial |
 | **Terefe Mulushewa** | ATE/9042/15 |                                              |
