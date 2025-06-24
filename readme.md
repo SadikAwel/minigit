@@ -10,7 +10,7 @@
 | **Terefe Mulushewa** | ATE/9042/15 |                                              |
 
 ---
-_A Simplified Git-like Version Control System_
+_A Simplified MiniGit Version Control System_
 
 ---
 
